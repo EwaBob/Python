@@ -1,0 +1,2 @@
+# Python
+exercises - simple projects
