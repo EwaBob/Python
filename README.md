@@ -1,2 +1,2 @@
 # Python
-exercises - simple projects
+exercises - more advance projects
